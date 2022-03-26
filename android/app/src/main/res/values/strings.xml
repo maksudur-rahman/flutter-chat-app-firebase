@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">chat application flutter</string>
+    <string name="facebook_app_id">657956258806699</string>
+    <string name="facebook_client_token">f67c1de53323632545ba9e55733fd205</string>
+    <string name="fb_login_protocol_scheme">fb657956258806699</string>
+</resources>
